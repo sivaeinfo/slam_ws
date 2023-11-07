@@ -1,0 +1,2 @@
+slamware_ros_sdk:slamware_sdk
+-DCATKIN_DEVEL_PREFIX=/home/jetson/slam_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jetson/slam_ws/install -G Unix Makefiles
